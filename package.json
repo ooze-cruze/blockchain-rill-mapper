@@ -1,0 +1,38 @@
+{
+  "name": "blockchain-rill-mapper",
+  "version": "1.0.0",
+  "description": "Map blockchain data structures with Rill Mapper, a visualization tool for understanding and analyzing blockchain networks.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ooze-cruze/blockchain-rill-mapper"
+  },
+  "author": "ooze-cruze",
+  "license": "MIT",
+  "dependencies": {
+    "blockchain-rill-mapper": "1.0.0",
+    "rill-mapper-gallery": "1.0.0",
+    "truffle": "1.0.0",
+    "express": "1.0.0",
+    "sinon": "1.0.0",
+    "axios": "1.0.0",
+    "cors": "1.0.0",
+    "body-parser": "1.0.0",
+    "ethereumjs-tx": "1.0.0",
+    "chalk": "1.0.0",
+    "pg": "1.0.0",
+    "commander": "1.0.0",
+    "enzyme": "1.0.0",
+    "babel-core": "1.0.0",
+    "dotenv": "1.0.0",
+    "helmet": "1.0.0",
+    "ipfs-http-client": "1.0.0",
+    "supertest": "1.0.0",
+    "web3": "1.0.0",
+    "redux": "1.0.0",
+    "moment": "1.0.0"
+  }
+}
